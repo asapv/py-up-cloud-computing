@@ -1,0 +1,10 @@
+pandas
+yt-dlp
+isodate
+requests
+python-dotenv
+google-api-python-client
+youtube-transcript-api
+selenium
+beautifulsoup4
+openpyxl
